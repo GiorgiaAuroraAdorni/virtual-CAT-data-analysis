@@ -4,6 +4,22 @@ Welcome to the repository for the data analysis procedures used in two related s
 This repository contains all the relevant scripts, methodologies, and documentation for analysing the data collected using the virtual CAT platform, a tool designed to assess algorithmic thinking (AT) skills in Swiss compulsory education.
 Sensitive data has been anonymised or removed, and only the necessary code for processing and analysing the data is included. 
 
+### Citation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12805318.svg)](https://doi.org/10.5281/zenodo.12805318)
+
+If you use the materials provided in this repository, please cite the following work:
+
+```bibtex
+   @misc{adorni_virtualCAT_2023,
+     author = {Adorni, Giorgia},
+     doi = {10.5281/zenodo.12805318},
+     month = july,
+     title = {{Virtual CAT Algorithmic Thinking Assessment: Data Analysis Procedures}},
+     note = {Zenodo Software. \url{https://doi.org/10.5281/zenodo.12805318}},
+     year = {2024}
+   }
+```
+
 ### Studies
 #### Unplugged CAT
 The unplugged CAT refers to the original, non-digital version of the Cross Array Task (CAT), a unique assessment tool designed to evaluate AT skills without the use of digital technology. This article [**[1]**](https://doi.org/10.1016/j.chbr.2021.100166) details the framework for designing and assessing such computational thinking (CT) activities.
