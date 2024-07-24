@@ -1,8 +1,45 @@
 # virtual-CAT-data-analysis
 
-This repository contains the code necessary for data preprocessing and analysis related to the Virtual-CAT project. 
-
+Welcome to the repository for the data analysis procedures used in two related studies: a pilot study and a subsequent main study. 
+This repository contains all the relevant scripts, methodologies, and documentation for analysing the data collected using the virtual CAT platform, a tool designed to assess algorithmic thinking (AT) skills in Swiss compulsory education.
 Sensitive data has been anonymised or removed, and only the necessary code for processing and analysing the data is included. 
+
+### Studies
+#### Unplugged CAT
+The unplugged CAT refers to the original, non-digital version of the Cross Array Task (CAT), a unique assessment tool designed to evaluate AT skills without the use of digital technology. This article [**[1]**](https://doi.org/10.1016/j.chbr.2021.100166) details the framework for designing and assessing such computational thinking (CT) activities.
+
+#### Virtual CAT
+The virtual CAT is a digital embodiment of the CAT, designed to offer a versatile platform for assessing AT in educational settings. The platform integrates various interfaces and software components to enhance the assessment process. Details of this framework are described in the upcoming software article **[2]**. The following open-source software components are integral to the virtual CAT platform [**[3]**](https://doi.org/10.5281/zenodo.10027851), [**[4]**](https://doi.org/10.5281/zenodo.10016535), [**[5]**](https://doi.org/10.5281/zenodo.10015011).
+
+The _pilot study_ explores the application of the virtual CAT tool for assessing AT skills. This study is currently under review with the International Journal of Child-Computer Interaction **[6]**. 
+The dataset supporting this pilot study is available here [**[8]**](https://doi.org/10.5281/zenodo.10018292).
+
+The _main study_ compares the effectiveness of the virtual CAT to the original unplugged CAT for assessing AT skills. This study is currently under review with Computers in Human Behavior Reports **[7]**.
+The dataset for this main study is available here [**[9]**]([https://doi.org/10.5281/zenodo.10018292](https://doi.org/10.5281/zenodo.10912339)).
+
+
+##### REFERENCES
+
+**[1]** Piatti, A., Adorni, G., El-Hamamsy, L., Negrini, L., Assaf, D., Gambardella, L., & Mondada, F. (2022). The CT-cube: A framework for the design and the assessment of computational thinking activities. Computers in Human Behavior Reports, 5, 100166. https://doi.org/10.1016/j.chbr.2021.100166
+
+**[2]** Adorni, G., Piatti, S., & Karpenko, V. (2024). Virtual CAT: A Multi-Interface Educational Platform for Algorithmic Thinking Assessment. Accepted at SoftwareX on April 11, 2024.
+
+**[3]** Adorni, G., & Piatti, S., & Karpenko, V. (2023). virtual CAT: An app for algorithmic thinking assessment within Swiss compulsory education. Zenodo Software. https://doi.org/10.5281/zenodo.10027851 On GitHub: https://github.com/GiorgiaAuroraAdorni/virtual-CAT-app/
+
+**[4]** Adorni, G., & Karpenko, V. (2023). virtual CAT programming language interpreter. Zenodo Software. https://doi.org/10.5281/zenodo.10016535 
+On GitHub: https://github.com/GiorgiaAuroraAdorni/virtual-CAT-programming-language-interpreter/
+
+**[5]** Adorni, G., & Karpenko, V. (2023). virtual CAT data infrastructure. Zenodo Software. https://doi.org/10.5281/zenodo.10015011
+On GitHub: https://github.com/GiorgiaAuroraAdorni/virtual-CAT-data-infrastructure
+
+**[6]** Adorni, G., & Piatti, A. (2024). The Virtual CAT: A Tool for Algorithmic Thinking Assessment in Swiss Compulsory Education. Submitted October 27, 2023 to International Journal of Child-Computer Interaction.
+
+**[7]** Adorni, G., Artico, I., Piatti, A., Lutz, E., Gambardella, L. M., Negrini, L., Mondada, F., & Assaf, D. (2024). Assessing Algorithmic Skills in Compulsory Education: A Comparative Study of Plugged and Unplugged Approaches. Submitted June 10, 2024 to Computers in Human Behavior Reports.
+
+**[8]** Adorni, G. (2023). Dataset from the pilot study of the virtual CAT platform for algorithmic thinking skills assessment in Swiss Compulsory Education. Zenodo Dataset. https://doi.org/10.5281/zenodo.10018292
+
+**[9]** Adorni, G. (2023). Dataset from the main large scale study of the virtual CAT platform for algorithmic thinking skills assessment in Swiss Compulsory Education. Zenodo Dataset. https://doi.org/10.5281/zenodo.10912339 
+
 
 ## Repository Structure 
 
