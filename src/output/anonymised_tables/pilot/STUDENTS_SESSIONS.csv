@@ -1,0 +1,34 @@
+STUDENT_ID,DATE_OF_BIRTH,GENDER,SESSION_ID,HARMOS_GRADE,CLASS,SCHOOL_TYPE,SCHOOL_ID,DATE,SUPERVISOR_ID,CANTON_NAME,CANTON_ID,AGE,AGE_GROUP,AGE_CATEGORY
+1,2011-08-03,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+2,2012-04-06,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,10,2,10-13
+3,2011-08-16,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+4,2011-08-16,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+5,2010-11-02,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+6,2010-11-05,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+7,2011-08-10,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+8,2011-02-15,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+9,2011-08-09,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+10,2011-09-23,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+11,2011-05-10,Female,1,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+12,2011-05-24,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+13,2011-10-14,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+14,2010-11-08,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+15,2011-01-29,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+16,2011-04-18,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+17,2011-07-29,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+18,2011-07-02,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+19,2011-08-07,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+20,2011-04-07,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+21,2010-11-28,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+22,2011-03-29,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+23,2011-01-02,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+24,2010-07-16,Male,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,12,2,10-13
+25,2011-04-02,Female,2,8,1,Secondary school,3,2023-03-29,1,Ticino (TI),21,11,2,10-13
+26,2018-11-21,Male,3,0,0,Preschool,4,2023-03-30,1,Ticino (TI),21,4,0,3-6
+27,2018-11-21,Male,3,0,0,Preschool,4,2023-03-30,1,Ticino (TI),21,4,0,3-6
+28,2019-02-22,Male,3,0,0,Preschool,4,2023-03-30,1,Ticino (TI),21,4,0,3-6
+29,2018-08-28,Female,4,1,1,Preschool,4,2023-03-30,1,Ticino (TI),21,4,0,3-6
+30,2017-03-25,Female,5,2,2,Preschool,4,2023-03-30,1,Ticino (TI),21,6,0,3-6
+31,2017-07-02,Female,5,2,2,Preschool,4,2023-03-30,1,Ticino (TI),21,5,0,3-6
+32,2017-01-18,Male,5,2,2,Preschool,4,2023-03-30,1,Ticino (TI),21,6,0,3-6
+33,2017-01-10,Male,5,2,2,Preschool,4,2023-03-30,1,Ticino (TI),21,6,0,3-6

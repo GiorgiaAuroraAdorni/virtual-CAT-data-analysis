@@ -1,0 +1,133 @@
+STUDENT_ID,DATE_OF_BIRTH,GENDER,SESSION_ID,HARMOS_GRADE,CLASS,SCHOOL_TYPE,SCHOOL_ID,DATE,SUPERVISOR_ID,CANTON_NAME,CANTON_ID,AGE,AGE_GROUP,AGE_CATEGORY
+1,2014-10-24,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+2,2014-05-12,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,9,1,7-9
+3,2015-06-30,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,7,1,7-9
+4,2015-01-29,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+5,2015-07-03,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,7,1,7-9
+6,2015-01-03,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+7,2014-12-02,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+8,2015-02-06,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+9,2014-09-26,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+10,2015-02-21,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+11,2015-09-17,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,7,1,7-9
+12,2015-05-26,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,7,1,7-9
+13,2015-03-27,Female,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+14,2015-06-24,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,7,1,7-9
+15,2015-03-28,Male,1,4,2,Primary school,E,2023-05-22,1,Ticino (TI),21,8,1,7-9
+16,2017-02-07,Male,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,6,0,3-6
+17,2016-12-05,Male,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,6,0,3-6
+18,2017-04-27,Female,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,6,0,3-6
+19,2017-05-28,Female,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,5,0,3-6
+20,2017-01-13,Male,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,6,0,3-6
+21,2017-06-20,Female,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,5,0,3-6
+22,2017-07-02,Male,2,2,2,Preschool,A,2023-05-23,1,Ticino (TI),21,5,0,3-6
+23,2018-09-26,Male,2,1,1,Preschool,A,2023-05-23,1,Ticino (TI),21,4,0,3-6
+24,2017-09-15,Male,2,1,1,Preschool,A,2023-05-23,1,Ticino (TI),21,5,0,3-6
+25,2018-07-10,Male,2,1,1,Preschool,A,2023-05-23,1,Ticino (TI),21,4,0,3-6
+26,2018-06-25,Female,2,1,1,Preschool,A,2023-05-23,1,Ticino (TI),21,4,0,3-6
+27,2018-02-07,Female,2,1,1,Preschool,A,2023-05-23,1,Ticino (TI),21,5,0,3-6
+28,2018-12-27,Female,2,0,0,Preschool,A,2023-05-23,1,Ticino (TI),21,4,0,3-6
+29,2011-03-14,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+30,2011-06-27,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+31,2010-12-10,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+32,2011-05-22,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+33,2011-08-21,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+34,2011-03-11,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+35,2010-11-22,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+36,2011-04-08,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+37,2011-06-05,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+38,2011-09-25,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+39,2011-01-07,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+40,2011-06-22,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+41,2010-12-16,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+42,2011-08-12,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+43,2011-02-21,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+44,2011-02-22,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+45,2010-11-18,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+46,2011-02-23,Male,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,12,2,10-13
+47,2011-07-15,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+48,2011-07-13,Female,3,8,1,Low secondary school,F,2023-05-24,1,Ticino (TI),21,11,2,10-13
+49,2007-12-23,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,15,3,14-16
+50,2008-11-10,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+51,2009-06-20,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,13,3,14-16
+52,2009-03-14,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+53,2009-10-26,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,13,3,14-16
+54,2009-08-17,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,13,3,14-16
+55,2009-01-20,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+56,2008-02-11,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,15,3,14-16
+57,2009-04-21,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+58,2009-04-21,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+59,2008-09-19,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+60,2008-04-13,Male,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,15,3,14-16
+61,2009-06-23,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,13,3,14-16
+62,2009-01-09,Female,4,10,3,Low secondary school,F,2023-05-24,1,Ticino (TI),21,14,3,14-16
+63,2008-09-19,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+64,2009-04-08,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+65,2009-04-17,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+66,2009-04-15,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+67,2009-04-01,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+68,2009-11-11,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+69,2009-05-12,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+70,2008-06-06,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+71,2010-01-22,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+72,2008-02-12,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,16,3,14-16
+73,2009-08-13,Male,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+74,2009-08-26,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+75,2009-06-29,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+76,2009-08-26,Female,5,10,3,Low secondary school,G,2023-06-01,1,Ticino (TI),21,13,3,14-16
+77,2007-10-03,Male,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+78,2008-01-30,Male,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+79,2008-10-04,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+80,2008-05-16,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+81,2007-10-03,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+82,2008-05-12,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+83,2008-02-18,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+84,2008-03-06,Male,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+85,2008-08-26,Male,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+86,2008-03-13,Male,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,15,3,14-16
+87,2008-06-27,Female,6,11,4,Low secondary school,G,2023-06-01,1,Ticino (TI),21,14,3,14-16
+88,2016-11-15,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+89,2016-09-15,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+90,2016-09-15,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+91,2017-03-01,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+92,2016-09-17,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+93,2016-12-17,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+94,2017-05-18,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+95,2017-04-23,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+96,2017-07-15,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,5,0,3-6
+97,2016-11-18,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+98,2016-11-18,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+99,2017-04-16,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+100,2017-03-22,Male,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+101,2017-05-12,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+102,2016-08-15,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+103,2017-04-08,Female,7,2,2,Preschool,D,2023-06-06,2,Solothurn (SO),18,6,0,3-6
+104,2006-06-08,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+105,2007-04-20,Female,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+106,2008-03-13,Female,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,15,3,14-16
+107,2008-05-16,Female,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,15,3,14-16
+108,2007-05-25,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+109,2007-04-25,Female,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+110,2007-06-28,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,15,3,14-16
+111,2007-02-24,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+112,2007-09-15,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,15,3,14-16
+113,2008-03-30,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,15,3,14-16
+114,2007-01-18,Male,8,11,3,Low secondary school,D,2023-06-06,2,Solothurn (SO),18,16,3,14-16
+115,2012-10-02,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+116,2013-04-03,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+117,2012-10-24,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+118,2012-08-03,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+119,2013-01-01,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+120,2012-08-16,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+121,2013-06-29,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,9,1,7-9
+122,2012-07-13,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+123,2013-01-30,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+124,2013-04-15,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+125,2012-08-30,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+126,2013-02-04,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+127,2013-03-01,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+128,2013-05-31,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+129,2012-08-12,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+130,2012-09-07,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+131,2012-08-08,Male,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,10,1,7-9
+132,2013-07-30,Female,9,6,4,Primary school,D,2023-06-06,2,Solothurn (SO),18,9,1,7-9
