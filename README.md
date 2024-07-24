@@ -10,7 +10,7 @@ Sensitive data has been anonymised or removed, and only the necessary code for p
 If you use the materials provided in this repository, please cite the following work:
 
 ```bibtex
-   @misc{adorni_virtualCAT_2023,
+   @misc{adorni_virtualCAT_data_analysis_2024,
      author = {Adorni, Giorgia},
      doi = {10.5281/zenodo.12805318},
      month = july,
