@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Adorni
+  given-names: Giorgia
+  orcid: "https://orcid.org/0000-0002-2613-4467"
+title: "Virtual CAT Algorithmic Thinking Assessment: Data 
+                   Analysis Procedures"
+version: 1.0.1
+doi: 10.5281/zenodo.12805318
+date-released: 202-07-24
+url: "https://doi.org/10.5281/zenodo.12805318"
